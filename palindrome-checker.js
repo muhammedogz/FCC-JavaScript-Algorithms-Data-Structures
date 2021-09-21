@@ -1,13 +1,10 @@
-function sumFibs(num) {
-    let pre = 1;
-    let now = 1;
-    for (let i = 0; i < num; i++) {
-        let fib = pre + now;
-        pre = now;
-        now = fib;
-        console.log(fib);
-    }
-    
+function palindrome(str) {
+    const reg = /[\W]/g;
+    str = str.replace(reg, "").toLowerCase();
+
+    return str.toLowerCase() === str.split(" ").reverse().join(" ");
 }
   
-sumFibs(10);
+  
+  
+console.log(palindrome("_eye"));
