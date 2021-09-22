@@ -12,9 +12,9 @@ For the responsive design part and my projects. Click [here](https://github.com/
 
 ## Solutions
 
-- Palindrome Checker - [Source Code](README.md)
-- Roman Numeral Converter - [Source Code](README.md)
-- Caesars Cipher - [Source Code](README.md)
-- Telephone Number Validator - [Source Code](README.md)
-- Cash Register - [Source Code](README.md)
+- Palindrome Checker - [Info](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker) - [Solution](palindrome-checker.js)
+- Roman Numeral Converter - [Info](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter) - [Solution](roman-number.js)
+- Caesars Cipher - [Info](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher) - [Solution](casears-cipher.js)
+- Telephone Number Validator - [Info](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator) - [Solution](tel-validator.js)
+- Cash Register - [Info](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) - [Solution](cash-register.js)
   
